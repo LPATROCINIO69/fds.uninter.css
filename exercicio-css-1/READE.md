@@ -1,4 +1,5 @@
-#Exercício sobre uso do CSS
+# UNINTER - Fundamentos de Desenvolvimento de Software
+## Exercício 01
 
 ## Apresentação do problema
 🙌 Faça uma página na qual existam quadrados de cores distintas ocupando os quatro cantos da tela com um texto dentro.
