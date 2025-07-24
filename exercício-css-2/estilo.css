@@ -1,0 +1,16 @@
+.imagem{
+    display:block;
+    background: url("https://www.meloflores.com.br/media/catalog/product/4/0/400_1282.webp") no-repeat;
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+
+}
+
+.imagem:hover{
+    background-position: 0px 50px;
+}
+
+.imagem:active{
+    background-position: 50px 50px;
+}
